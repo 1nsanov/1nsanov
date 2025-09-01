@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Victor Bezunov
 
-<!--
-**1nsanov/1nsanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack .NET & Python Developer | AI & LLM Enthusiast  
 
-Here are some ideas to get you started:
+I have 4+ years of experience in building scalable applications, microservices, and AI-powered solutions.  
+Currently, I'm focusing on **local LLM integrations (Ollama)** and **open-source tools** (soon).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- **Languages:** C#, Python, Go, TypeScript, JavaScript  
+- **Backend:** .NET Core, ASP.NET Core, FastAPI, REST, WebSockets  
+- **Frontend:** Angular
+- **Databases:** PostgreSQL, MS SQL, SQLite, Redis  
+- **AI/ML:** Ollama, LLM integrations  
+- **DevOps:** Docker, GitHub Actions, RabbitMQ, Microservices  
+
+---
+
+## 🌍 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/victor-bezunov-b06882239/)
+- [Twitter (X)](https://x.com/1nsanov)
+
+---
+
+⭐️ From [1nsanov](https://github.com/1nsanov)
