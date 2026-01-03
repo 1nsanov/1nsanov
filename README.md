@@ -1,32 +1,27 @@
 # 👋 Hi, I'm Victor Bezunov
 
-💻 Fullstack .NET & Python Developer | AI & LLM Enthusiast  
+💻 Fullstack .NET Developer | Python & AI Integrations
 
-I’m a Fullstack developer with 4+ years of experience in backend development, 
-microservices, LLM integrations and frontend development.  
+I’m a Fullstack .NET Developer with 4+ years of experience in building scalable applications, microservices, and modern web solutions. My primary focus is on .NET Core and C#, where I design and develop backend services and integrate them with intuitive frontend applications.
 
-My main focus is on **.NET, Python, and Go** for building scalable backend services, 
-and on **local LLM integrations (Ollama)** for AI-powered applications.  
+I also have solid experience with frontend frameworks — Angular and Vue, allowing me to work confidently across the full stack and deliver complete, production‑ready solutions.
 
-I also have **fullstack experience** with modern frontend frameworks 
-(**Angular, React, Vue**) — while my current focus is backend and AI, 
-I conceptually understand frontend architecture and can work across the stack 
-when needed.
+In addition to .NET development, I have hands‑on experience in building applications with Python and developing LLM integrations (Ollama) for automation and AI‑powered workflows.
 
-🌍 Open to remote opportunities in international teams and collaborations on open-source projects.
+🌍 I’m open to remote opportunities in international teams and collaborations on open‑source projects.
 
 ---
 
 ## 🚀 Tech Stack
 
 **Languages:**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Backend:**  
 .NET Core, ASP.NET Core, FastAPI, REST, WebSockets  
 
 **Frontend:**  
-React, Angular, Vue
+Angular, Vue
 
 **Databases:**  
 PostgreSQL, MS SQL, SQLite, Redis  
