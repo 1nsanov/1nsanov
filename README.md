@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Victor Bezunov
 
-💻 Fullstack .NET Developer | Python & AI Integrations
+💻 Full‑stack .NET Developer | ASP.NET Core, C#, Microservices | Angular/Vue/React | Python & LLM (Ollama) | Docker
 
-I’m a Fullstack .NET Developer with 4+ years of experience in building scalable applications, microservices, and modern web solutions. My primary focus is on .NET Core and C#, where I design and develop backend services and integrate them with intuitive frontend applications.
+I’m a Full‑stack .NET Developer with 4+ years of experience building scalable web applications and microservices. My core expertise is ASP.NET Core/C#, EF Core, and clean, testable backend services integrated with modern frontends. I deliver end‑to‑end solutions with Angular and Vue, and I’m actively expanding my React skills.
 
-I also have solid experience with frontend frameworks — Angular and Vue, allowing me to work confidently across the full stack and deliver complete, production‑ready solutions.
-
-In addition to .NET development, I have hands‑on experience in building applications with Python and developing LLM integrations (Ollama) for automation and AI‑powered workflows.
+Beyond .NET, I build automation and API services in Python and integrate local LLMs (Ollama) to power AI‑driven features and developer workflows. I value clean architecture, observability, and steady, incremental improvements — from domain modeling and database design to UX forms, validation, and production readiness.
 
 🌍 I’m open to remote opportunities in international teams and collaborations on open‑source projects.
 
@@ -21,7 +19,7 @@ In addition to .NET development, I have hands‑on experience in building applic
 .NET Core, ASP.NET Core, FastAPI, REST, WebSockets  
 
 **Frontend:**  
-Angular, Vue
+Angular, Vue, React
 
 **Databases:**  
 PostgreSQL, MS SQL, SQLite, Redis  
